@@ -7,6 +7,13 @@
 ## Q1.a API call from individual component? 
 
 ## Q1.b What Design patterns would you use? 
+  ```
+   1. HOC
+   2. Render Prop
+   3. Observer
+   4. Custom Hook
+   
+  ```
 
 ## Q2. Security of the application? If using JWT token, where would you store it?
 
